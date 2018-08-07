@@ -1,6 +1,6 @@
 {
   "name": "@tleef/urn-js",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "lib/urn.js",
   "scripts": {
     "build": "babel src --out-dir lib",
@@ -30,6 +30,6 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.56",
-    "@tleef/type-js": "^1.2.0"
+    "@tleef/type-js": "^1.3.0"
   }
 }
